@@ -74,3 +74,7 @@ SUMX(
     'Fact Sales',
     'Fact Sales'[Quantity] * 'Fact Sales'[Unit_Price]
 )
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
